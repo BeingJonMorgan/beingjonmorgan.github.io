@@ -3,5 +3,5 @@
 ## August 6, 2016
 
 * link:_posts/2016-07-31-State-of-the-Summer.adoc[State of the Summer]
-* link:_posts/2016-07-31-Parting-Gift.adoc[Parting Gift]
+* link:_posts/2016-07-31-Parting-Gift.md[Parting Gift]
 
