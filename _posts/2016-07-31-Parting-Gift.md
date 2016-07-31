@@ -6,7 +6,7 @@ permalink: /parting-gift/
 source-id: 1hyE9Vr7CUStQfhD8MzBtUM3secMwbEDuUf_dG-iyPCk
 published: true
 ---
-![image alt text]({{ site.url }}/public/eMrnLSTjSv62LruqkC0gJg_img_0.jpg)
+![image alt text](/public/eMrnLSTjSv62LruqkC0gJg_img_0.jpg)
 
 # Parting Gift
 
